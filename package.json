@@ -1,0 +1,24 @@
+{
+  "name": "typescript-from",
+  "version": "1.0.0",
+  "description": "자바스크립트의 기본 개념을 복습하면서, 타입스크립트의 기초부터 고급 기능, 실전 프로젝트까지 단계별로 학습한 내용을 정리하는 저장소입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sssh12/typescript-from-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sssh12/typescript-from-js/issues"
+  },
+  "homepage": "https://github.com/sssh12/typescript-from-js#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
