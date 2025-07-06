@@ -10,16 +10,16 @@ const double3 = (num: number): number => {
   return num * 2;
 };
 
-function getFullName1(first: string, last: string): string {
-  return `${first} ${last}`;
+function getFullName1(last: string, first: string): string {
+  return `${last} ${first}`;
 }
 
-const getFullName2 = function (first: string, last: string): string {
-  return `${first} ${last}`;
+const getFullName2 = function (last: string, first: string): string {
+  return `${last} ${first}`;
 };
 
-const getFullName3 = (first: string, last: string): string => {
-  return `${first} ${last}`;
+const getFullName3 = (last: string, first: string): string => {
+  return `${last} ${first}`;
 };
 
 console.log(double1(3));
